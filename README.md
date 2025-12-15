@@ -153,17 +153,10 @@ def get_recommendations(user_id, top_n=10):
 ```
 movie-recommendation-system/
 ├── Movie_Recommendation_ML_Notebook.ipynb      # Full exploration of all models
-├── image.png                                   # CV performance plot
-├── xgb_model.pkl                               # Classification model
-├── cluster_sim.pkl                             # Cluster similarity data
-├── data.pkl                                    # Preprocessed features
-├── similarity_matrix.pkl                       # Movie similarity matrix
-├── movies_for_similarity.pkl                   # Movie metadata
 ├── movies.csv                                  # MovieLens data
 ├── ratings.csv                                 # MovieLens data
-├── tags.csv                                    # MovieLens data
+├── users.csv                                    # MovieLens data
 ├── README.md                                   # This file
-└── requirements.txt                            # (optional) Python dependencies
 ```
 
 ## Contributing
@@ -178,5 +171,13 @@ Contributions very welcome! Ideas:
 MIT License – see [LICENSE](LICENSE) file for details.
 
 ---
+## 👤 Author
+
+**Haythem Abdellaoui**
+- GitHub: [@haythem-abdellaoui](https://github.com/haythem-abdellaoui)
+
+---
+
+⭐ If you found this project helpful, please give it a star!
 
 **Made with ❤️ using Python, scikit-learn, and XGBoost**
