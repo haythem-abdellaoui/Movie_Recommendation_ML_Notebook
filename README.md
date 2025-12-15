@@ -90,7 +90,7 @@ Top recommendations achieve **>90% predicted like probability**.
 ## Installation
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/movie-recommendation-system.git
+git clone https://github.com/haythem-abdellaoui/movie-recommendation-system.git
 cd movie-recommendation-system
 
 # Create virtual environment
